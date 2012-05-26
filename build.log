@@ -1,0 +1,8 @@
+Logfile initialized
+[INFO] logfile = C:\Users\ARTEMIO\My Documents\Titanium Studio Workspace\TUDOCTOR\build.log
+[DEBUG] C:\Users\ARTEMIO\Titanium\mobilesdk\win32\2.0.1.GA2\android\builder.py distribute TUDOCTOR.COM C:\Users\ARTEMIO\appcel\android-sdk C:\Users\ARTEMIO\My Documents\Titanium Studio Workspace\TUDOCTOR com.sintelti.tudoctor C:\Users\ARTEMIO\Documents\keyAndroid JE@RNICAjanc0507 C:\Users\ARTEMIO\Desktop 12
+[ERROR] Exception occured while building Android project:
+[ERROR] Traceback (most recent call last):
+[ERROR]   File "C:\Users\ARTEMIO\Titanium\mobilesdk\win32\2.0.1.GA2\android\builder.py", line 2131, in <module>
+[ERROR]     avd_id = dequote(sys.argv[10])
+[ERROR] IndexError: list index out of range
